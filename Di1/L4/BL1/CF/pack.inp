@@ -1,0 +1,11 @@
+tolerance 1.2
+filetype xyz
+output packed_system.xyz
+structure 1NP_pos_5x2.xyz
+    number 50
+    inside box 0.0 0.0 0.0 300.0 300.0 300.0
+end structure
+structure 1NP_neg_5x2.xyz
+    number 50
+    inside box 0.0 0.0 0.0 300.0 300.0 300.0
+end structure

@@ -1,0 +1,30 @@
+########################################################
+# Start of charge, pairs, and long range interactions
+########################################################
+set type 1 charge -1
+set type 2 charge 1
+set type 3 charge 0
+#C: -1, H: +1
+pair_style lj/cut/coul/long 20 40
+kspace_style pppm 1e-4
+
+pair_coeff 1 1 1.0 1.0 1.0 # C C
+pair_coeff 2 2 1.0 1.0 1.0 # H H
+pair_coeff 3 3 1.0 7.5 7.5 # O O
+pair_coeff 1 2 1.0 1.0 1.0 # C H
+pair_coeff 1 3 1.0 4.25 4.25 # O C
+pair_coeff 2 3 1.0 4.25 4.25 # O H
+pair_modify shift yes
+dielectric 0.5
+special_bonds lj 0.0 1.0 1.0
+special_bonds coul 0.0 1.0 1.0
+###################################
+# Start of bonded interactions
+###################################
+bond_style harmonic
+angle_style harmonic
+bond_coeff 1 100 1.0	# C-C
+bond_coeff 2 100 4.25	# C-O
+bond_coeff 3 100 1.0	# H-H
+bond_coeff 4 100 4.25	# H-O
+angle_coeff * 0 180              # all angle types
