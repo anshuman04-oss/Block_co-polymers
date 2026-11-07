@@ -1,0 +1,67 @@
+Following are connected components 1
+Following are connected components 1
+50 string
+125 string
+100 ring
+500 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+150 string
+150 string
+100 ring
+200 ring
+150 string
+100 ring
+50 string
+100 ring
+100 ring
+75 string
+25 string
+25 string
+overall Frequency
+String
+25 : 2
+50 : 2
+75 : 1
+125 : 1
+150 : 3
+Cycle
+100 : 10
+200 : 1
+500 : 1
+Following are connected components 1
+50 string
+125 string
+100 ring
+500 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+150 string
+150 string
+100 ring
+200 ring
+150 string
+100 ring
+50 string
+100 ring
+100 ring
+75 string
+25 string
+25 string
+overall Frequency
+String
+25 : 2
+50 : 2
+75 : 1
+125 : 1
+150 : 3
+Cycle
+100 : 10
+200 : 1
+500 : 1

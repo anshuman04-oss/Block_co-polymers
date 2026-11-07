@@ -1,0 +1,13 @@
+tolerance 1.2
+filetype xyz
+output packed_system.xyz
+
+structure 1NP_pos_8x2.xyz
+    number 50
+    inside box 2.0 2.0 2.0 278.0 278.0 278.0
+end structure
+
+structure 1NP_neg_8x2.xyz
+    number 50
+    inside box 2.0 2.0 2.0 278.0 278.0 278.0
+end structure

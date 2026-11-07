@@ -1,0 +1,15 @@
+==========================================
+SLURM_CLUSTER_NAME = param-shakti
+SLURM_JOB_ACCOUNT = manishch
+SLURM_JOB_ID = 1218663
+SLURM_JOB_NAME = mw=nvt
+SLURM_JOB_NODELIST = cn046
+SLURM_JOB_USER = 23ch10006
+SLURM_JOB_UID = 8213
+SLURM_JOB_PARTITION = shared
+SLURM_TASK_PID = 409347
+SLURM_SUBMIT_DIR = /scratch/23ch10006/PGNs/Block-CoPolymer/Di0_5/L12/BL1/BF
+SLURM_CPUS_ON_NODE = 16
+SLURM_NTASKS = 16
+SLURM_TASK_PID = 409347
+==========================================

@@ -1,0 +1,29 @@
+LAMMPS (21 Nov 2023)
+# series runs - one by one - minimization
+units  lj
+boundary p p p
+atom_style full
+read_data initialsys.config
+Reading data file ...
+  orthogonal box = (0 0 0) to (280 280 280)
+  2 by 3 by 4 MPI processor grid
+  reading atoms ...
+  2500 atoms
+  scanning bonds ...
+  2 = max bonds/atom
+  scanning angles ...
+  1 = max angles/atom
+  reading bonds ...
+  2400 bonds
+  reading angles ...
+  2300 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:    0        0        0       
+  special bond factors coul:  0        0        0       
+     2 = max # of 1-2 neighbors
+     2 = max # of 1-3 neighbors
+     4 = max # of 1-4 neighbors
+     6 = max # of special neighbors
+  special bonds CPU = 0.001 seconds
+  read_data CPU = 0.072 seconds
+log logNVT.txt

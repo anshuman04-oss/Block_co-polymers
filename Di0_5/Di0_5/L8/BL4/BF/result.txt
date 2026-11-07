@@ -1,0 +1,82 @@
+Following are connected components 1
+Following are connected components 1
+51 string
+34 string
+34 string
+17 string
+51 string
+34 string
+34 string
+17 string
+17 string
+34 string
+34 string
+34 string
+17 string
+17 string
+17 string
+34 string
+51 string
+17 string
+17 string
+51 string
+17 string
+17 string
+17 string
+17 string
+51 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+34 string
+34 string
+34 string
+17 string
+34 string
+17 string
+34 string
+51 string
+17 string
+34 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+17 string
+overall Frequency
+String
+17 : 54
+34 : 14
+51 : 6
+Cycle

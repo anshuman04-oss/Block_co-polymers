@@ -1,0 +1,45 @@
+Following are connected components 1
+Following are connected components 1
+Following are connected components 1
+Following are connected components 1
+Following are connected components 1
+68 string
+102 string
+68 string
+68 string
+68 string
+51 string
+68 string
+34 string
+34 string
+68 string
+136 string
+68 string
+34 string
+68 string
+34 string
+34 string
+68 string
+102 string
+17 string
+68 string
+34 string
+34 string
+85 string
+34 string
+34 string
+34 string
+51 string
+85 string
+34 string
+17 string
+overall Frequency
+String
+17 : 2
+34 : 11
+51 : 2
+68 : 10
+85 : 2
+102 : 2
+136 : 1
+Cycle

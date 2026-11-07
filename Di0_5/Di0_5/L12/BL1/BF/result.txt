@@ -1,0 +1,228 @@
+Following are connected components 1
+25 string
+50 string
+25 string
+100 ring
+50 string
+50 string
+50 string
+25 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+100 string
+50 string
+50 string
+75 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+25 string
+25 string
+overall Frequency
+String
+25 : 7
+50 : 35
+75 : 1
+100 : 1
+Cycle
+100 : 4
+Following are connected components 1
+25 string
+50 string
+25 string
+100 ring
+50 string
+50 string
+50 string
+25 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+100 string
+50 string
+50 string
+75 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+25 string
+25 string
+overall Frequency
+String
+25 : 7
+50 : 35
+75 : 1
+100 : 1
+Cycle
+100 : 4
+Following are connected components 1
+25 string
+50 string
+25 string
+100 ring
+50 string
+50 string
+50 string
+25 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+100 string
+50 string
+50 string
+75 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+25 string
+25 string
+overall Frequency
+String
+25 : 7
+50 : 35
+75 : 1
+100 : 1
+Cycle
+100 : 4
+Following are connected components 1
+25 string
+50 string
+25 string
+100 ring
+50 string
+50 string
+50 string
+25 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+100 string
+50 string
+50 string
+75 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+25 string
+25 string
+25 string
+overall Frequency
+String
+25 : 7
+50 : 35
+75 : 1
+100 : 1
+Cycle
+100 : 4

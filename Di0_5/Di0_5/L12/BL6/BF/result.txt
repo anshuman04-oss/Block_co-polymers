@@ -1,0 +1,104 @@
+Following are connected components 1
+50 string
+50 string
+50 string
+150 string
+150 string
+50 string
+50 string
+75 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+25 string
+overall Frequency
+String
+25 : 1
+50 : 36
+75 : 1
+150 : 2
+Cycle
+100 : 3
+Following are connected components 1
+50 string
+50 string
+50 string
+150 string
+150 string
+50 string
+50 string
+75 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+100 ring
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+50 string
+100 ring
+50 string
+50 string
+25 string
+overall Frequency
+String
+25 : 1
+50 : 36
+75 : 1
+150 : 2
+Cycle
+100 : 3

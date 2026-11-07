@@ -1,0 +1,66 @@
+Following are connected components 1
+225 string
+100 ring
+100 ring
+100 ring
+100 ring
+200 ring
+125 string
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+25 string
+25 string
+overall Frequency
+String
+25 : 2
+125 : 1
+225 : 1
+Cycle
+100 : 19
+200 : 1
+Following are connected components 1
+225 string
+100 ring
+100 ring
+100 ring
+100 ring
+200 ring
+125 string
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+100 ring
+25 string
+25 string
+overall Frequency
+String
+25 : 2
+125 : 1
+225 : 1
+Cycle
+100 : 19
+200 : 1

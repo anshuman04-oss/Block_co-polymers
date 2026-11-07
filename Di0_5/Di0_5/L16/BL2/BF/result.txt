@@ -1,0 +1,66 @@
+Following are connected components 1
+132 string
+264 string
+198 string
+66 string
+198 string
+66 string
+198 string
+132 string
+264 string
+66 string
+132 string
+132 string
+66 string
+264 string
+66 string
+66 string
+132 string
+66 string
+198 string
+66 string
+198 string
+132 string
+66 string
+66 string
+66 string
+overall Frequency
+String
+66 : 11
+132 : 6
+198 : 5
+264 : 3
+Cycle
+Following are connected components 1
+132 string
+264 string
+198 string
+66 string
+198 string
+66 string
+198 string
+132 string
+264 string
+66 string
+132 string
+132 string
+66 string
+264 string
+66 string
+66 string
+132 string
+66 string
+198 string
+66 string
+198 string
+132 string
+66 string
+66 string
+66 string
+overall Frequency
+String
+66 : 11
+132 : 6
+198 : 5
+264 : 3
+Cycle

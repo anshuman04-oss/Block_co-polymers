@@ -1,0 +1,38 @@
+Following are connected components 1
+102 string
+34 string
+34 string
+136 string
+153 string
+170 string
+204 string
+34 string
+34 string
+102 string
+34 string
+34 string
+68 string
+34 string
+17 string
+34 string
+68 string
+68 string
+34 string
+68 string
+68 string
+17 string
+34 string
+68 string
+34 string
+17 string
+overall Frequency
+String
+17 : 3
+34 : 11
+68 : 6
+102 : 2
+136 : 1
+153 : 1
+170 : 1
+204 : 1
+Cycle
